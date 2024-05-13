@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bakery_shop/screens/brown_screen.dart';
-import 'package:flutter_bakery_shop/screens/purple_screen.dart';
-import 'package:flutter_bakery_shop/screens/red_screen.dart';
+import 'package:flutter_bakery_shop/screens/main_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,11 +10,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
-      
-      home: const RedScreen(),
+      home: MainPage(),
     );
   }
 }
