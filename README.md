@@ -1,16 +1,22 @@
 # flutter_bakery_shop
+ 
+You can see the power of flutter animation in this project,
+Whithin using only some few widgets I handeled this smooth animations.
 
-A new Flutter project.
+Open to any contrbution✨
+Feel free to fork😉
 
-## Getting Started
+Please STAR it if You like it⭐️
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Images:  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![0](docs/screenshots/img1.png) 
+![1](docs/screenshots/img2.png) 
+![2](docs/screenshots/img3.png) 
+![3](docs/screenshots/img4.png) 
+
+
+
+
